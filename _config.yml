@@ -2,7 +2,7 @@
 title: Abramova Tatiana
 description: A blog about lorem ipsum dolor sit amet
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
-url: "https://tatianaab.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+url: https://tatianaab.github.io # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Tatiana
