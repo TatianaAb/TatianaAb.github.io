@@ -1,0 +1,19 @@
+# Site settings
+title: Abramova Tatiana
+description: A blog about lorem ipsum dolor sit amet
+# baseurl: "/particle" # the subpath of your site, e.g. /blog
+url: "https://tatianaab.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+
+# User settings
+username: Tatiana
+user_description: Bicycle rights irony actually neutra typewriter lyft. Man bun taxidermy put a bird on it, umami yr ramps pop-up ugh bushwick chia lo-fi. Occupy bitters pour-over snackwave you probably haven't heard of them small batch. Cornhole mustache man bun letterpress echo park VHS.
+user_title: Full Stuck Software Developer
+email: abramovatatian@gmail.com
+github_username:  https://github.com/TatianaAb
+linkedin_username:  https://linkedin.com/tatiana-abramova-6807b778/
+
+# Google-analytics
+google-analytics:
+  id: ""
+
+exclude: ['package.json', 'src' , 'node_modules']
